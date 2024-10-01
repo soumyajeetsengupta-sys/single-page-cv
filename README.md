@@ -3,7 +3,7 @@
 
 **Overview**
 
-This project aims to create a concise and visually appealing single-page CV (Curriculum Vitae) using HTML. The primary focus is on semantic HTML structure, SEO optimization, and social media integration.
+A Big Thank You to roadmap.sh! This project is inspired by the "Single-Page HTML CV" project found on roadmap.sh, a fantastic resource for developers looking to build their skillsets.  Following the roadmap's guidance, I've set out to create a visually appealing and informative single-page CV built with HTML & CSS. The focus lies on ensuring a clean and semantic HTML structure, optimizing the CV for search engines (SEO), and enabling seamless social media sharing.
 
 **Key Features**
 
