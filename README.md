@@ -5,6 +5,8 @@
 
 A Big Thank You to roadmap.sh! This project is inspired by the "Single-Page HTML CV" project found on roadmap.sh, a fantastic resource for developers looking to build their skillsets.  Following the roadmap's guidance, I've set out to create a visually appealing and informative single-page CV built with HTML & CSS. The focus lies on ensuring a clean and semantic HTML structure, optimizing the CV for search engines (SEO), and enabling seamless social media sharing.
 
+[An Internal Link](https://soumyajeetsengupta-sys.github.io/single-page-cv/)
+
 **Key Features**
 
 -   **Semantic HTML:** Utilizes appropriate HTML tags to ensure a clear and meaningful structure.
